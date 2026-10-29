@@ -1,0 +1,12 @@
+artifacts/
+build/
+.tools/
+*.pfx
+*.p12
+*.key
+*.cer
+*.msix
+*.exe
+*.dll
+*.log
+.vs/
